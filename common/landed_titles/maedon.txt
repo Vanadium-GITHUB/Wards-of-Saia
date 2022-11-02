@@ -2,19 +2,52 @@ e_maedon = {
 	color = { 246 63 63 }
 	color2 = { 230 25 25 }
 
+	title = "Everlord"
+	title_female = "Everlorde"
+	foa = "Blesser of Dawn"
+
+	landless = yes
+
 	k_zoe = {
 		color = { 247 146 146 }
-		color2 = { 255 100 100 }		
+		color2 = { 255 100 100 }
+
+		d_zoe = {
+
+		}
+
+		d_nuia = {
+
+		}
+
+		d_tusma = {
+		
+		}
+
+		d_maegrau = {
+
+		}
+
+		d_takegon = {
+
+		}	
 	}
 
 	k_vaimwa = {
 		color = { 201 49 49 }
 		color2 = { 179 45 45 }
+
+		d_vaimwa = {
+
+		}
+
+		
 	}
 	k_nasytrea = { 
 		color = { 212 16 16 }
 		color2 = { 219 37 37 }
 
+	}
 	k_juiryan = {
 		color = { 240 61 61 }
 		color2 = { 231 55 55 }
